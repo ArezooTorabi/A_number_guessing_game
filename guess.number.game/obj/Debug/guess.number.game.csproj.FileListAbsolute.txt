@@ -1,0 +1,11 @@
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\bin\Debug\guess.number.game.exe.config
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\bin\Debug\guess.number.game.exe
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\bin\Debug\guess.number.game.pdb
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\obj\Debug\guess.number.game.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\obj\Debug\guess.number.game.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\obj\Debug\guess.number.game.Form1.resources
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\obj\Debug\guess.number.game.Properties.Resources.resources
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\obj\Debug\guess.number.game.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\obj\Debug\guess.number.game.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\obj\Debug\guess.number.game.exe
+C:\Users\toshiba\source\repos\guess.number.game\guess.number.game\obj\Debug\guess.number.game.pdb
